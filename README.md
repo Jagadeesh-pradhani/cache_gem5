@@ -42,3 +42,21 @@ A good starting point is <http://www.gem5.org/about>, and for
 more information about building the simulator and getting started
 please see <http://www.gem5.org/documentation> and
 <http://www.gem5.org/documentation/learning_gem5/introduction>.
+
+
+# Running
+Be in gem5 folder<br>
+
+Create a folder in gem5/configs directory.<br>
+
+Copy paste the codes in that folder.<br>
+
+To tun the python code,
+```
+build/X86/gem5.opt configs/folder_name/tcmp.py
+```
+
+Output of the simulation will be stored in gem5/m5out folder
+
+
+
