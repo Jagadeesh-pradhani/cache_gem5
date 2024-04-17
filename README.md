@@ -49,6 +49,9 @@ Be in gem5 folder<br>
 
 Create a folder in gem5/configs directory.<br>
 
+To create a config script:- https://www.gem5.org/documentation/learning_gem5/part1/simple_config/ <br>
+https://www.gem5.org/documentation/learning_gem5/part1/cache_config/
+
 Copy paste the codes in that folder.<br>
 
 To tun the python code,
