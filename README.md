@@ -58,5 +58,12 @@ build/X86/gem5.opt configs/folder_name/tcmp.py
 
 Output of the simulation will be stored in gem5/m5out folder
 
+# Prefetcher
+
+Source default prefetcher python code:-  "gem5/src/mem/cache/prefetch/Prefetcher.py" <br>
+
+For new prefetcher creation : https://www.gem5.org/documentation/learning_gem5/part2/helloobject/  <br>
+
+
 
 
