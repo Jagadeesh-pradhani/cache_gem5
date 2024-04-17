@@ -8,7 +8,7 @@ Cache memory simulation in gem5
 git clone https://github.com/gem5/gem5
 ```
 
-# Install dependecies
+## Install dependecies
 For setup on Ubuntu 22.04 (gem5 >= v21.1)
 for other versions: https://www.gem5.org/documentation/general_docs/building
 ```
@@ -17,7 +17,7 @@ sudo apt install build-essential git m4 scons zlib1g zlib1g-dev \
     python3-dev libboost-all-dev pkg-config python3-tk
 ```
 
-# Build
+## Build
 
 ```
 scons build/X86/gem5.opt
