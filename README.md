@@ -11,6 +11,9 @@ This branch is used for creation of simobject in gem5. <br>
     scons build/X86/gem5.opt -j$(nproc)
    ```
 
+## Testing
+   Modify .cc , .hh and .py files in 'newobj' folder as required.
+
 
 
 
