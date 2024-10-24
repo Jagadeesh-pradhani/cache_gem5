@@ -30,7 +30,7 @@ scons build/ALL/$add binary type
 ```
 or
 ```
-scons build/X86/gem5.opt -j {No. of CPU's}
+scons build/X86/gem5.opt -j$(nproc)
 ```
 
 # Codespace
